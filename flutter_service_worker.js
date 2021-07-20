@@ -16,7 +16,7 @@ const RESOURCES = {
 "/assets/images/next-page-hover.png": "6031acd94dd3165318558cb23aa3e8fc",
 "/assets/images/next-page-normal.png": "855393996f46465df71eb43a078d0151",
 "/assets/images/qq-group.png": "095681adbf39d16467765a53a6067d90",
-"/main.dart.js": "f02a7b7e545745b26425b059a24996a4",
+"/main.dart.js": "4e43caf67b478d458b5428acbd08dc41",
 "/index.html": "fac7e18fea8a40f3fb369b72d65dd7b0"
 };
 
