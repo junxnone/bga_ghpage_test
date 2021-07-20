@@ -64299,7 +64299,7 @@ q.d=3000
 q.sGH(0,"application/json; charset=utf-8")
 r.eB$.e=C.ek
 return new R.Tk(r)})
-t($,"amw","Ln",function(){return"junxnone/junxnone.github.io/bga_ghpage_test"})
+t($,"amw","Ln",function(){return"junxnone/bga_ghpage_test"})
 t($,"amx","adv",function(){return"\xa92014 - "+H.aam(P.ag6())+" bingoogolapple\n\u8700ICP\u590717023604\u53f7"})
 t($,"ane","a5f",function(){return new Z.Vj(new Y.Vb(H.c([],u.fT)))})
 t($,"aoH","aeO",function(){return P.bZ(C.Dz,u.N)})
